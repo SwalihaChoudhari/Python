@@ -1,6 +1,0 @@
-word=input("Enter your word:")
-print(len(word))
-print(word[0])
-print(word[-1])
-print(word.upper())
-print(word[ : :-1])
