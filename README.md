@@ -1,5 +1,11 @@
-# Hey there 👋 I'm Swaliha  
+# Python Practice
 
-🎓 Engineering Student | 💻 Python + DSA Learner  
-🌸 Learning coding the fun way — through projects, games & challenges  
-🚀 Currently exploring: Python basics & Data Structures  
+This repository contains my Python learning journey.
+
+## Topics Covered
+- Variables and Datatypes
+- Strings and Conditionals
+- Lists and Tuples
+- Dictionaries and Sets
+
+Each folder contains multiple practice programs and mini-projects completed while learning Python.
